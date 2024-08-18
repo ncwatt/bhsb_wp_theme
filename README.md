@@ -1,1 +1,1 @@
-# bhsb_wp_theme
+# St. Patrick's Ballymena WordPress Theme
